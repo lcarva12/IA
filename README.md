@@ -9,5 +9,6 @@ Feito por:
 Nas pastas estão:
   - Treinamento do Modelo
   - Melhores Modelos
+  - Notebook com o desenvolvimento do mapa
 
 E o arquivo CSV é o resultado com a coluna new_price.
