@@ -1,4 +1,4 @@
-# IA
+# Uso de Redes Neurais para Previsão de Preços de Casas
 
 Esta arquivo possui as atividades da Disciplina de IA-Unifesp-2023
 
