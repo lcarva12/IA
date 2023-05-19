@@ -3,7 +3,7 @@
 Esta arquivo possui as atividades da Disciplina de IA-Unifesp-2023
 
 Feito por: 
-  - Gabriela Cristina Santos RA 156406
+  - Gabriela Cristina Moreira dos Santos RA 156406
   - Lucas Guilherme Carvalho RA 156556
 
 Nas pastas estão:
